@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rukkyme
 - 👀 I’m interested in learning new things, adding knowledge to knowledge
-- 🌱 I’m currently learning at ALX. doing hard things
+- 🌱 I’m currently learning at ALX. doing hard things, on the path to solve worlds big problems.
 
 <!---
 rukkyme/rukkyme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
